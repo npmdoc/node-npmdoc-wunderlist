@@ -1,4 +1,7 @@
-# api documentation for  [wunderlist (v0.1.3)](https://github.com/wunderlist/wunderlist.js)  [![npm package](https://img.shields.io/npm/v/npmdoc-wunderlist.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-wunderlist) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-wunderlist.svg)](https://travis-ci.org/npmdoc/node-npmdoc-wunderlist)
+# npmdoc-wunderlist
+
+#### basic api documentation for  [wunderlist (v0.1.3)](https://github.com/wunderlist/wunderlist.js)  [![npm package](https://img.shields.io/npm/v/npmdoc-wunderlist.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-wunderlist) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-wunderlist.svg)](https://travis-ci.org/npmdoc/node-npmdoc-wunderlist)
+
 #### The Wunderlist JS SDK simplifies interacting with the Wunderlist API. It can be used both in the browser and on the server side.
 
 [![NPM](https://nodei.co/npm/wunderlist.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/wunderlist)
@@ -103,7 +106,8 @@
             },
             "pkgid": "wunderlist@0.1.3"
         }
-    ]
+    ],
+    "bin": {}
 }
 ```
 
